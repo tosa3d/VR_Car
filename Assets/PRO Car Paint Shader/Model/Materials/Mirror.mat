@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Mirror
+  m_Shader: {fileID: 4800000, guid: 3ff652c69a8f6994c836dae24ced01c9, type: 3}
+  m_ShaderKeywords: CLEARCOAT Decal_NON REF _CUBEMAPCOLOROVERRIDE_ON _CUBEMAPINEMMISION_ON
+    _EMISSION
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _1Decal:
+        m_Texture: {fileID: 2800000, guid: b9984d5113d34c645840e501fa08a73b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _2Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _3Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _4Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _5Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Albedo:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BodyDecal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ClearCoatNormal:
+        m_Texture: {fileID: 2800000, guid: b3d940e75e1f5d24684cd93a2758e1bf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CubeMap:
+        m_Texture: {fileID: 8900000, guid: dd58409f7faac9f49978a82cf2dbe43f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlakeMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlakeNormal:
+        m_Texture: {fileID: 2800000, guid: a268ab862991c4743a9281c69bb2c36a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlakesMask:
+        m_Texture: {fileID: 2800000, guid: 2741be98b31d56c43ad9cfbcaf99a799, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlakesNormal:
+        m_Texture: {fileID: 2800000, guid: a268ab862991c4743a9281c69bb2c36a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlanksMask:
+        m_Texture: {fileID: 2800000, guid: 960aa2f6831769241a4a0c0490c196a8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlanksNormal:
+        m_Texture: {fileID: 2800000, guid: bf17aa6dacda29745bd806eddc6378ef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlanksTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTexNormal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetalGlossAO:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetalSmoothnessAO:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionCubeMap:
+        m_Texture: {fileID: 8900000, guid: c12366ae681d91a44926c2d19d8c1734, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectonCubeMap:
+        m_Texture: {fileID: 8900000, guid: dd58409f7faac9f49978a82cf2dbe43f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularSmoothness:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _lamda:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _temp:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _1DecalColorOverride: 0
+    - _2DecalColorOverride: 0
+    - _3DecalColorOverride: 0
+    - _4DecalColorOverride: 0
+    - _5DecalColorOverride: 0
+    - _BodyDecalColorOverride: 0
+    - _BumpScale: 1
+    - _ClearCoatNormalScale: 0
+    - _ClearCoatSmoothness: 1
+    - _ClearCoatSmothness: 1
+    - _CubeMapColorOverride: 1
+    - _CubeMapIntensity: 1
+    - _CubeMapMipMap: 0
+    - _CubeMapPower: 0
+    - _CubeMapStrength: 1
+    - _CubemapInEmmision: 1
+    - _FlakeColorOverride: 0
+    - _FlakeDistance: 20
+    - _FlakeMetallic: 0
+    - _FlakeNormalScale: 1
+    - _FlakeSize: 1
+    - _FlakeSmoothness: 0.5
+    - _FlakesColorOverride: 0
+    - _FlakesDistance: 3
+    - _FlakesMetallic: 0.8
+    - _FlakesQuantity: 1
+    - _FlakesSize: 1
+    - _FlakesSmoothness: 0.5
+    - _FlanksColorOveride: 0
+    - _FlanksColorOverride: 0
+    - _FlanksDistance: 2
+    - _FlanksMetallic: 0.3
+    - _FlanksNormalScale: 1
+    - _FlanksQuantity: 1.5
+    - _FlanksSize: 1
+    - _FlanksSmoothness: 0.8
+    - _FlanksSpread: 2
+    - _FresnelPaintExponent: 0
+    - _FresnelScale: 0
+    - _Glossiness: 1
+    - _MainTexNormalScale: 1
+    - _Metallic: 0.5
+    - _PaintFresnelPaintExponent: 1
+    - _PaintFresnelScale: 0
+    - _ReflectionBlur: 0
+    - _ReflectionColorOverride: 0
+    - _ReflectionExponent: 0.5
+    - _ReflectionIntensity: 10
+    - _ReflectionStrength: 0.1
+    - _ReflectonBlur: 1
+    - _ReflectonColorOverride: 0
+    - _ReflectonIntensity: 1
+    - _ReflectonMipMap: 0
+    - _ReflectonPower: 0
+    - _ReflectonStrength: 1
+    - _Smoothness: 1
+    - _Specular: 0.2
+    - _Transparency: 0.5
+    - __dirty: 0
+    m_Colors:
+    - _1DecalColor: {r: 0.85294116, g: 0, b: 0, a: 1}
+    - _2DecalColor: {r: 1, g: 0, b: 0, a: 1}
+    - _3DecalColor: {r: 1, g: 0, b: 0, a: 1}
+    - _4DecalColor: {r: 1, g: 0, b: 0, a: 1}
+    - _5DecalColor: {r: 1, g: 0, b: 0, a: 1}
+    - _BodyDecalColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Color: {r: 0.75, g: 1, b: 1, a: 1}
+    - _CubeMapColor: {r: 0.75, g: 1, b: 1, a: 1}
+    - _Emission: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
+    - _FlanksColor: {r: 1, g: 0, b: 0, a: 1}
+    - _PaintColor: {r: 0, g: 0.8745099, b: 0.8745099, a: 1}
+    - _ReflectionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _ReflectonColor: {r: 0.75, g: 1, b: 1, a: 1}
+    - _SecondaryPaint: {r: 1, g: 1, b: 1, a: 1}

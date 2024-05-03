@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2e30c6afd7e76584a8f8d6e798eced0b
+labels:
+- Car
+- Paint
+- Pro
+- Shader
+timeCreated: 1501661838
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

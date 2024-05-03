@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PurplePaint
+  m_Shader: {fileID: 4800000, guid: 06583516c51061f49ab35c6bbe6f338b, type: 3}
+  m_ShaderKeywords: BLUR CLEARCOAT Decal_NON Flakes Flanks Flanks_ON REF REF_ON _FLAKECOLOROVERRIDE_ON
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _1Decal:
+        m_Texture: {fileID: 2800000, guid: b9984d5113d34c645840e501fa08a73b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _2Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _3Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _4Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _5Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ClearCoatNormal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlakeMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlakeNormal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatcapTexture:
+        m_Texture: {fileID: 2800000, guid: 89c5348cf92b2c44984bbff7e566b35d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionCubeMap:
+        m_Texture: {fileID: 8900000, guid: c12366ae681d91a44926c2d19d8c1734, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _ClearCoatNormalScale: 1
+    - _ClearCoatSmoothness: 1
+    - _FlakeColorOverride: 1
+    - _FlakeDistance: 20
+    - _FlakeMetallic: 0
+    - _FlakeNormalScale: 1
+    - _FlakeSize: 1
+    - _FlakeSmoothness: 0.5
+    - _Glossiness: 0
+    - _MatcapIntensity: 4
+    - _Metallic: 0
+    - _PaintFresnelPaintExponent: 1
+    - _PaintFresnelScale: 0
+    - _ReflectionBlur: 0.5
+    - _ReflectionColorOverride: 0
+    - _ReflectionExponent: 0.5
+    - _ReflectionIntensity: 0.75
+    - _ReflectionStrength: 0.3
+    m_Colors:
+    - _1DecalColor: {r: 1, g: 1, b: 1, a: 1}
+    - _2DecalColor: {r: 1, g: 1, b: 1, a: 1}
+    - _3DecalColor: {r: 1, g: 1, b: 1, a: 1}
+    - _4DecalColor: {r: 1, g: 1, b: 1, a: 1}
+    - _5DecalColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.45882356, g: 0.19999948, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
+    - _ReflectionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SecondaryPaint: {r: 0, g: 0, b: 0, a: 1}
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6

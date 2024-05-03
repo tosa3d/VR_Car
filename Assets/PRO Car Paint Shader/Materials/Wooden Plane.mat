@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Wooden Plane
+  m_Shader: {fileID: 4800000, guid: 3ff652c69a8f6994c836dae24ced01c9, type: 3}
+  m_ShaderKeywords: _DETAIL_MULX2 _GLOSSYREFLECTIONS_ON _NORMALMAP _REFLECTIONCOLOROVERRIDE_ON
+    _REFLECTONCOLOROVERRIDE_ON _SPECGLOSSMAP _SPECULARHIGHLIGHTS_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _1Decal:
+        m_Texture: {fileID: 2800000, guid: b9984d5113d34c645840e501fa08a73b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _2Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _3Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _4Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _5Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 8c1bd6e4fe032794dab94a0796c71138, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ClearCoatNormal:
+        m_Texture: {fileID: 2800000, guid: 5be817216aefb20409ed9cc6a7e91ddc, type: 3}
+        m_Scale: {x: 5, y: 7}
+        m_Offset: {x: 0, y: 0}
+    - _CutoffMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 10, y: 7}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 2800000, guid: 5be817216aefb20409ed9cc6a7e91ddc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _FlakeMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlakeNormal:
+        m_Texture: {fileID: 2800000, guid: a268ab862991c4743a9281c69bb2c36a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlakesMask:
+        m_Texture: {fileID: 2800000, guid: 2741be98b31d56c43ad9cfbcaf99a799, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlakesNormal:
+        m_Texture: {fileID: 2800000, guid: a268ab862991c4743a9281c69bb2c36a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: ed345b09c5925994abb7e0bb06124ae1, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _MatcapTexture:
+        m_Texture: {fileID: 2800000, guid: 730675df96a48584dba64327393b25b4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionCubeMap:
+        m_Texture: {fileID: 8900000, guid: c12366ae681d91a44926c2d19d8c1734, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectonCubeMap:
+        m_Texture: {fileID: 8900000, guid: c12366ae681d91a44926c2d19d8c1734, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _temp:
+        m_Texture: {fileID: 2800000, guid: 978639cea4c62144eaaeb107a1faeb12, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BlurDistance: 0
+    - _BumpScale: 0.5
+    - _ClearCoatNormalScale: 3
+    - _ClearCoatSmoothness: 0
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 3
+    - _DstBlend: 0
+    - _FlakeColorOverride: 0
+    - _FlakeDistance: 20
+    - _FlakeMetallic: 0
+    - _FlakeNormalScale: 1
+    - _FlakeSize: 1
+    - _FlakeSmoothness: 0.5
+    - _FlakesColorOverride: 0
+    - _FlakesDistance: 3
+    - _FlakesMetallic: 0.8
+    - _FlakesQuantity: 1
+    - _FlakesSize: 1
+    - _FlakesSmoothness: 0.5
+    - _FresnelPaintExponent: 1
+    - _FresnelScale: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _PaintFresnelPaintExponent: 1
+    - _PaintFresnelScale: 0
+    - _Parallax: 0.08
+    - _ReflectionBlur: 1
+    - _ReflectionColorOverride: 1
+    - _ReflectionExponent: 1
+    - _ReflectionIntensity: 1
+    - _ReflectionStrength: 0.5
+    - _ReflectonBlur: 1
+    - _ReflectonColorOverride: 1
+    - _ReflectonIntensity: 0
+    - _ReflectonPower: 0.5
+    - _ReflectonStrength: 0.2
+    - _SmoothnessTextureChannel: 0
+    - _Specular: 0.2
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Translucent: 0.05
+    - _UVSec: 0
+    - _WorkflowMode: 1
+    - _ZWrite: 1
+    - __dirty: 0
+    m_Colors:
+    - _1DecalColor: {r: 1, g: 1, b: 1, a: 1}
+    - _2DecalColor: {r: 1, g: 1, b: 1, a: 1}
+    - _3DecalColor: {r: 1, g: 1, b: 1, a: 1}
+    - _4DecalColor: {r: 1, g: 1, b: 1, a: 1}
+    - _5DecalColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.9852941, g: 0.9852941, b: 0.9852941, a: 1}
+    - _EmissionColor: {r: 0.02, g: 0.02, b: 0.02, a: 1}
+    - _ReflectionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _ReflectonColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SecondaryPaint: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}

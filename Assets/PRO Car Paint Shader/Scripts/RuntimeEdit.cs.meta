@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2a394f9a975da3f43bc687f152838d53
+labels:
+- Car
+- Paint
+- Pro
+- Shader
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

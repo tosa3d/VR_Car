@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: b1def46b919cda54cb010731dc6822ec
+labels:
+- Car
+- Paint
+- Pro
+- Shader
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BL
+    100002: Body
+    100004: Bolts
+    100006: Bolts001
+    100008: Bolts002
+    100010: Bolts003
+    100012: Bottom
+    100014: Brake Caliper
+    100016: Brake Caliper001
+    100018: Brake Caliper002
+    100020: Brake Caliper003
+    100022: Brake Disc
+    100024: Brake Disc001
+    100026: Brake Disc002
+    100028: Brake Disc003
+    100030: //RootNode
+    100032: Chairs
+    100034: Chrome
+    100036: Diffuse
+    100038: FL
+    100040: interior
+    100042: Led
+    100044: Led (2)
+    100046: lens
+    100048: Light
+    100050: Lights (2)
+    100052: LOGO
+    100054: LOGO (2)
+    100056: LOGO001
+    100058: LOGO002
+    100060: LOGO003
+    100062: Medium
+    100064: mirror
+    100066: Orange
+    100068: Rim
+    100070: Rim001
+    100072: Rim002
+    100074: Rim003
+    100076: Spring
+    100078: Springs
+    100080: Tire
+    100082: Tire001
+    100084: Tire002
+    100086: Tire003
+    100088: Wheel BL
+    100090: Wheel BR
+    100092: Wheel FL
+    100094: Wheel FR
+    100096: Window
+    400000: BL
+    400002: Body
+    400004: Bolts
+    400006: Bolts001
+    400008: Bolts002
+    400010: Bolts003
+    400012: Bottom
+    400014: Brake Caliper
+    400016: Brake Caliper001
+    400018: Brake Caliper002
+    400020: Brake Caliper003
+    400022: Brake Disc
+    400024: Brake Disc001
+    400026: Brake Disc002
+    400028: Brake Disc003
+    400030: //RootNode
+    400032: Chairs
+    400034: Chrome
+    400036: Diffuse
+    400038: FL
+    400040: interior
+    400042: Led
+    400044: Led (2)
+    400046: lens
+    400048: Light
+    400050: Lights (2)
+    400052: LOGO
+    400054: LOGO (2)
+    400056: LOGO001
+    400058: LOGO002
+    400060: LOGO003
+    400062: Medium
+    400064: mirror
+    400066: Orange
+    400068: Rim
+    400070: Rim001
+    400072: Rim002
+    400074: Rim003
+    400076: Spring
+    400078: Springs
+    400080: Tire
+    400082: Tire001
+    400084: Tire002
+    400086: Tire003
+    400088: Wheel BL
+    400090: Wheel BR
+    400092: Wheel FL
+    400094: Wheel FR
+    400096: Window
+    2100000: Default
+    2100002: SVGMat.015
+    2300000: BL
+    2300002: Body
+    2300004: Bolts
+    2300006: Bolts001
+    2300008: Bolts002
+    2300010: Bolts003
+    2300012: Bottom
+    2300014: Brake Caliper
+    2300016: Brake Caliper001
+    2300018: Brake Caliper002
+    2300020: Brake Caliper003
+    2300022: Brake Disc
+    2300024: Brake Disc001
+    2300026: Brake Disc002
+    2300028: Brake Disc003
+    2300030: Chairs
+    2300032: Chrome
+    2300034: Diffuse
+    2300036: FL
+    2300038: interior
+    2300040: Led
+    2300042: Led (2)
+    2300044: lens
+    2300046: Light
+    2300048: Lights (2)
+    2300050: LOGO
+    2300052: LOGO (2)
+    2300054: LOGO001
+    2300056: LOGO002
+    2300058: LOGO003
+    2300060: Medium
+    2300062: mirror
+    2300064: Orange
+    2300066: Rim
+    2300068: Rim001
+    2300070: Rim002
+    2300072: Rim003
+    2300074: Spring
+    2300076: Springs
+    2300078: Tire
+    2300080: Tire001
+    2300082: Tire002
+    2300084: Tire003
+    2300086: Window
+    3300000: BL
+    3300002: Body
+    3300004: Bolts
+    3300006: Bolts001
+    3300008: Bolts002
+    3300010: Bolts003
+    3300012: Bottom
+    3300014: Brake Caliper
+    3300016: Brake Caliper001
+    3300018: Brake Caliper002
+    3300020: Brake Caliper003
+    3300022: Brake Disc
+    3300024: Brake Disc001
+    3300026: Brake Disc002
+    3300028: Brake Disc003
+    3300030: Chairs
+    3300032: Chrome
+    3300034: Diffuse
+    3300036: FL
+    3300038: interior
+    3300040: Led
+    3300042: Led (2)
+    3300044: lens
+    3300046: Light
+    3300048: Lights (2)
+    3300050: LOGO
+    3300052: LOGO (2)
+    3300054: LOGO001
+    3300056: LOGO002
+    3300058: LOGO003
+    3300060: Medium
+    3300062: mirror
+    3300064: Orange
+    3300066: Rim
+    3300068: Rim001
+    3300070: Rim002
+    3300072: Rim003
+    3300074: Spring
+    3300076: Springs
+    3300078: Tire
+    3300080: Tire001
+    3300082: Tire002
+    3300084: Tire003
+    3300086: Window
+    4300000: Chairs
+    4300002: mirror
+    4300004: Window
+    4300006: interior
+    4300008: Light
+    4300010: Medium
+    4300012: Body
+    4300014: Lights (2)
+    4300016: FL
+    4300018: Led
+    4300020: lens
+    4300022: BL
+    4300024: Led (2)
+    4300026: Orange
+    4300028: Springs
+    4300030: Spring
+    4300032: Tire
+    4300034: LOGO
+    4300036: Brake Disc
+    4300038: Brake Caliper
+    4300040: Bolts
+    4300042: Rim
+    4300044: Rim001
+    4300046: Bolts001
+    4300048: Brake Caliper001
+    4300050: Brake Disc001
+    4300052: LOGO001
+    4300054: Tire001
+    4300056: Tire002
+    4300058: LOGO002
+    4300060: Brake Disc002
+    4300062: Brake Caliper002
+    4300064: Bolts002
+    4300066: Rim002
+    4300068: Rim003
+    4300070: Bolts003
+    4300072: Brake Caliper003
+    4300074: Brake Disc003
+    4300076: LOGO003
+    4300078: Tire003
+    4300080: Chrome
+    4300082: Diffuse
+    4300084: Bottom
+    4300086: LOGO (2)
+    6400000: BL
+    6400002: Body
+    6400004: Bolts
+    6400006: Bolts001
+    6400008: Bolts002
+    6400010: Bolts003
+    6400012: Bottom
+    6400014: Brake Caliper
+    6400016: Brake Caliper001
+    6400018: Brake Caliper002
+    6400020: Brake Caliper003
+    6400022: Brake Disc
+    6400024: Brake Disc001
+    6400026: Brake Disc002
+    6400028: Brake Disc003
+    6400030: Chairs
+    6400032: Chrome
+    6400034: Diffuse
+    6400036: FL
+    6400038: interior
+    6400040: Led
+    6400042: Led (2)
+    6400044: lens
+    6400046: Light
+    6400048: Lights (2)
+    6400050: LOGO
+    6400052: LOGO (2)
+    6400054: LOGO001
+    6400056: LOGO002
+    6400058: LOGO003
+    6400060: Medium
+    6400062: mirror
+    6400064: Orange
+    6400066: Rim
+    6400068: Rim001
+    6400070: Rim002
+    6400072: Rim003
+    6400074: Spring
+    6400076: Springs
+    6400078: Tire
+    6400080: Tire001
+    6400082: Tire002
+    6400084: Tire003
+    6400086: Window
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+    2186277476908879414: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bd70d448b18cfbc46af26466f752332c
+labels:
+- Car
+- Paint
+- Pro
+- Shader
+timeCreated: 1504574624
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - focalTransform: {instanceID: 0}
+  - dofHdrShader: {fileID: 4800000, guid: acd613035ff3e455e8abf23fdc8c8c24, type: 3}
+  - dx11BokehShader: {fileID: 4800000, guid: d8e82664aa8686642a424c88ab10164a, type: 3}
+  - dx11BokehTexture: {fileID: 2800000, guid: 5f333ec6ba6bf0b4ea4febee2ee3f439, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

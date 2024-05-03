@@ -1,0 +1,244 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PurplePaint
+  m_Shader: {fileID: 4800000, guid: 3ff652c69a8f6994c836dae24ced01c9, type: 3}
+  m_ShaderKeywords: Decal_NON Flanks REF _FLAKECOLOROVERRIDE_ON _REFLECTIONCOLOROVERRIDE_ON
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _1Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _2Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _3Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _4Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _5Decal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Albedo:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BodyDecal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ClearCoatNormal:
+        m_Texture: {fileID: 2800000, guid: b3d940e75e1f5d24684cd93a2758e1bf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cube:
+        m_Texture: {fileID: 8900000, guid: 8b5e3f0ab0510a64385f5b656728141c, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CubeMap:
+        m_Texture: {fileID: 8900000, guid: c44cd7712afc4d24c808f4a488ece52e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMap:
+        m_Texture: {fileID: 2800000, guid: e5107355b926f67409bde9ae8af02654, type: 3}
+        m_Scale: {x: 50, y: 50}
+        m_Offset: {x: 0, y: 0}
+    - _DiffuseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlakeMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlakeNormal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlakesMask:
+        m_Texture: {fileID: 2800000, guid: 2741be98b31d56c43ad9cfbcaf99a799, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlakesNormal:
+        m_Texture: {fileID: 2800000, guid: a268ab862991c4743a9281c69bb2c36a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlanksMask:
+        m_Texture: {fileID: 2800000, guid: 960aa2f6831769241a4a0c0490c196a8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlanksNormal:
+        m_Texture: {fileID: 2800000, guid: bf17aa6dacda29745bd806eddc6378ef, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlanksTexture:
+        m_Texture: {fileID: 2800000, guid: e5107355b926f67409bde9ae8af02654, type: 3}
+        m_Scale: {x: 5, y: 5}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTexNormal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatCapLookup:
+        m_Texture: {fileID: 2800000, guid: ddc7197508bf2054ba4b7bf67c2d547c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetalGlossAO:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetalSmoothnessAO:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionCubeMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionMap:
+        m_Texture: {fileID: 8900000, guid: 8b5e3f0ab0510a64385f5b656728141c, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectonCubeMap:
+        m_Texture: {fileID: 8900000, guid: c44cd7712afc4d24c808f4a488ece52e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex:
+        m_Texture: {fileID: 8900000, guid: a8e488472a8f24193a51cc9a89d0028f, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TopTexture0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _lamda:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _temp:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _1DecalColorOverride: 0
+    - _2DecalColorOverride: 0
+    - _3DecalColorOverride: 0
+    - _4DecalColorOverride: 0
+    - _5DecalColorOverride: 0
+    - _BodyDecalColorOverride: 0
+    - _BumpScale: 1
+    - _ClearCoatNormalScale: 1
+    - _ClearCoatSmoothness: 1
+    - _ClearCoatSmothness: 1
+    - _CubeMapColorOverride: 0
+    - _CubeMapIntensity: 0.75
+    - _CubeMapMipMap: 0.5
+    - _CubeMapPower: 0
+    - _CubeMapStrength: 0.2
+    - _CubemapInEmmision: 0
+    - _DetailMapDepthBias: 1
+    - _FlakeColorOverride: 1
+    - _FlakeDistance: 20
+    - _FlakeMetallic: 0
+    - _FlakeNormalScale: 1
+    - _FlakeSize: 1
+    - _FlakeSmoothness: 0.5
+    - _FlakesColorOverride: 0
+    - _FlakesDistance: 3
+    - _FlakesMetallic: 0.8
+    - _FlakesQuantity: 1
+    - _FlakesSize: 1
+    - _FlakesSmoothness: 0.5
+    - _FlanksColorOveride: 0
+    - _FlanksColorOverride: 0
+    - _FlanksDistance: 3
+    - _FlanksMetallic: 0.3
+    - _FlanksNormalScale: 1
+    - _FlanksQuantity: 1
+    - _FlanksScale: 1
+    - _FlanksSize: 10
+    - _FlanksSmoothness: 0.8
+    - _FlanksSpread: 0.3
+    - _Float3: 1
+    - _FresnelPaintExponent: 1
+    - _FresnelScale: 1
+    - _Glossiness: 1
+    - _MainTexNormalScale: 1
+    - _Metallic: 0.2
+    - _PaintFresnelPaintExponent: 1
+    - _PaintFresnelScale: 1
+    - _ReflectionBlur: 1
+    - _ReflectionColorOverride: 1
+    - _ReflectionExponent: 0.5
+    - _ReflectionIntensity: 0.75
+    - _ReflectionStrength: 0.19642857
+    - _ReflectonColorOverride: 0
+    - _ReflectonIntensity: 0.75
+    - _ReflectonMipMap: 0.5
+    - _ReflectonPower: 0
+    - _ReflectonStrength: 0.5
+    - _Shininess: 0.39417917
+    - _Smoothness: 0.9
+    - __dirty: 1
+    m_Colors:
+    - _1DecalColor: {r: 1, g: 1, b: 1, a: 1}
+    - _2DecalColor: {r: 1, g: 1, b: 1, a: 1}
+    - _3DecalColor: {r: 1, g: 1, b: 1, a: 1}
+    - _4DecalColor: {r: 1, g: 1, b: 1, a: 1}
+    - _5DecalColor: {r: 1, g: 0, b: 1, a: 1}
+    - _BaseColor: {r: 0.45882356, g: 0.20000002, b: 1, a: 1}
+    - _BodyDecalColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Color: {r: 0.28275856, g: 1, b: 0, a: 1}
+    - _CubeMapColor: {r: 0.3, g: 0.3, b: 0.3, a: 1}
+    - _DetailColor: {r: 0.9303633, g: 0.89705884, b: 1, a: 1}
+    - _DetailMapParams: {r: 200, g: 200, b: 0.1, a: 1}
+    - _DiffuseColor: {r: 0, g: 0, b: 0, a: 0}
+    - _Emission: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
+    - _FlanksColor: {r: 1, g: 0, b: 0, a: 1}
+    - _PaintColor: {r: 0.2827586, g: 1, b: 0, a: 1}
+    - _ReflectColor: {r: 0.14705884, g: 0.1438149, b: 0.1438149, a: 0}
+    - _ReflectionColor: {r: 0.19117647, g: 0.19117647, b: 0.19117647, a: 0}
+    - _ReflectonColor: {r: 1, g: 1, b: 1, a: 0}
+    - _SecondaryPaint: {r: 0.45882356, g: 0.19999999, b: 1, a: 1}
+    - _SpecColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Tint: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6
